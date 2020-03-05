@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<r2dxml>
+    <type id="10" name="testblock.entity.xml">
+        <type id="3" name="componentCount">0</type>
+        <type id="10" name="material">
+            <type id="11" name="uvDim">
+                <x>1.0</x>
+                <y>1.0</y>
+            </type>
+            <type id="11" name="uvPos">
+                <x>0.0</x>
+                <y>0.0</y>
+            </type>
+            <type id="3" name="Color">-5592406</type>
+            <type id="5" name="Alpha">1.0</type>
+            <type id="9" name="Repeat">true</type>
+            <type id="8" name="Texture">.\res\art\test_block.png</type>
+            <type id="9" name="Linear_Scaling">false</type>
+            <type id="1" name="RenderType">1</type>
+        </type>
+        <type id="11" name="pos">
+            <x>0.0</x>
+            <y>-160.0</y>
+        </type>
+        <type id="5" name="rotation">0.0</type>
+        <type id="8" name="name">TestBlock</type>
+        <type id="11" name="dim">
+            <x>50.0</x>
+            <y>50.0</y>
+        </type>
+        <type id="8" name="uuid">c59e5745-838d-4c06-844a-26be07c163b6</type>
+    </type>
+</r2dxml>

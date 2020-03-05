@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<r2dxml>
+    <type id="10" name="map_collider.r2d.xml">
+        <type id="10" name="entity_0">
+            <type id="3" name="componentCount">1</type>
+            <type id="10" name="material">
+                <type id="11" name="uvDim">
+                    <x>1.0</x>
+                    <y>1.0</y>
+                </type>
+                <type id="11" name="uvPos">
+                    <x>0.0</x>
+                    <y>0.0</y>
+                </type>
+                <type id="3" name="Color">-1</type>
+                <type id="5" name="Alpha">1.0</type>
+                <type id="8" name="Animation">res/anim/lard_south.anim.xml</type>
+                <type id="9" name="Repeat">false</type>
+                <type id="9" name="Linear_Scaling">false</type>
+                <type id="1" name="RenderType">2</type>
+            </type>
+            <type id="11" name="pos">
+                <x>-32.0</x>
+                <y>-32.0</y>
+            </type>
+            <type id="10" name="component_0">
+                <type id="8" name="southAnimation">res/anim/lard_south.anim.xml</type>
+                <type id="9" name="canLookThrough">false</type>
+                <type id="8" name="northAnimation">res/anim/lard_north.anim.xml</type>
+                <type id="5" name="borderSouth">0.0</type>
+                <type id="5" name="borderEast">8.0</type>
+                <type id="5" name="borderNorth">0.0</type>
+                <type id="8" name="className">Player</type>
+                <type id="8" name="westAnimation">res/anim/lard_west.anim.xml</type>
+                <type id="5" name="borderWest">8.0</type>
+                <type id="8" name="uuid">1dff6756-9b9f-4ee9-86be-c2b8eda23ca0</type>
+            </type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name">Player</type>
+            <type id="11" name="dim">
+                <x>64.0</x>
+                <y>64.0</y>
+            </type>
+            <type id="8" name="uuid">f6927c23-cba7-4c5e-a196-72cc1a205d99</type>
+        </type>
+        <type id="10" name="entity_1">
+            <type id="3" name="componentCount">1</type>
+            <type id="10" name="material">
+                <type id="11" name="uvDim">
+                    <x>1.0</x>
+                    <y>1.0</y>
+                </type>
+                <type id="11" name="uvPos">
+                    <x>0.0</x>
+                    <y>0.0</y>
+                </type>
+                <type id="3" name="Color">-5592406</type>
+                <type id="5" name="Alpha">1.0</type>
+                <type id="9" name="Repeat">false</type>
+                <type id="8" name="Texture">.\res\art\test_block.png</type>
+                <type id="9" name="Linear_Scaling">false</type>
+                <type id="1" name="RenderType">1</type>
+            </type>
+            <type id="11" name="pos">
+                <x>-61.0</x>
+                <y>-262.25</y>
+            </type>
+            <type id="10" name="component_0">
+                <type id="9" name="canLookThrough">true</type>
+                <type id="5" name="borderSouth">0.0</type>
+                <type id="5" name="borderEast">0.0</type>
+                <type id="5" name="borderNorth">20.0</type>
+                <type id="8" name="className">Altitudinal</type>
+                <type id="5" name="borderWest">100.0</type>
+                <type id="8" name="uuid">552c62b6-8be0-49aa-8b53-7a4336c39879</type>
+            </type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="11" name="dim">
+                <x>200.0</x>
+                <y>200.0</y>
+            </type>
+            <type id="8" name="uuid">7e493d70-9466-4500-873f-baea462caa60</type>
+        </type>
+        <type id="3" name="entityCount">2</type>
+    </type>
+</r2dxml>

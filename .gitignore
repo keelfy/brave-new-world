@@ -1,0 +1,13 @@
+# Gradle
+.gradle
+build
+
+# Eclipse
+.settings
+bin
+.classpath
+.project
+
+# Other
+res
+res_old

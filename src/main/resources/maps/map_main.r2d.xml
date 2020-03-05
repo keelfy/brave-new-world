@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<r2dxml>
+    <type id="10" name="map_main.r2d.xml">
+        <type id="10" name="entity_0">
+            <type id="11" name="pos">
+                <x>0.0</x>
+                <y>-90.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/testblock.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="8" name="uuid">24d6f16d-d821-43b8-9f78-e61144b9b7e0</type>
+        </type>
+        <type id="10" name="entity_1">
+            <type id="11" name="pos">
+                <x>-167.0</x>
+                <y>-81.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/testblock.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="8" name="uuid">71483fe1-4b97-4ffa-97b4-18fb310f6648</type>
+        </type>
+        <type id="10" name="entity_2">
+            <type id="11" name="pos">
+                <x>-118.0</x>
+                <y>-47.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/testblock.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="8" name="uuid">60be2f38-f8c1-46f9-8dfd-636303897a71</type>
+        </type>
+        <type id="10" name="entity_3">
+            <type id="11" name="pos">
+                <x>-70.0</x>
+                <y>-62.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/testblock.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="8" name="uuid">01519e91-133c-48e6-9d28-a6d18a6ed543</type>
+        </type>
+        <type id="3" name="entityCount">6</type>
+        <type id="10" name="entity_4">
+            <type id="11" name="pos">
+                <x>-37.0</x>
+                <y>-74.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/testblock.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name"/>
+            <type id="8" name="uuid">d42bade4-5ff1-49a2-b659-c763aa67b8ef</type>
+        </type>
+        <type id="10" name="entity_5">
+            <type id="11" name="pos">
+                <x>0.0</x>
+                <y>80.0</y>
+            </type>
+            <type id="8" name="prefabPath">res/entity/player.entity.xml</type>
+            <type id="5" name="rotation">0.0</type>
+            <type id="8" name="name">Player</type>
+            <type id="8" name="uuid">595a5085-257f-4798-a99d-f48e8768410d</type>
+        </type>
+    </type>
+</r2dxml>
